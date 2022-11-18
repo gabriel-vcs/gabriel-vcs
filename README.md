@@ -11,7 +11,7 @@
 - :open_file_folder: Find my LinkedIn profile at [https://www.linkedin.com/in/gabrielgomezestevez](https://www.linkedin.com/in/gabrielgomezestevez)
 
 - :memo: Get my resume at [https://bit.ly/GABRIEL_GOMEZ_CV](https://bit.ly/GABRIEL_GOMEZ_CV) or scanning this QR Code: 
-<img src="./qr-code_gabriel-gomez-cv.png" alt="qr code" title="qr code" style="width: 10rem;"/>
+<img src="./qr-code_gabriel-gomez-cv.png" alt="qr code" title="qr code" style="width: 12rem;"/>
 
 #
 <h3 align="left">Languages and Tools:</h3>
