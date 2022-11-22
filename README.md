@@ -18,7 +18,7 @@
 #
 <h3 align="left">Languages and Tools:</h3>
 <div>
-<img src="./React_logo_wordmark-700x235.png" style="width: 12rem;"/>&nbsp;<img src="./JavaScript_Logo-420x420.png" style="width: 5rem;"/> &nbsp;<img src="./Node_logo_NodeJS-700x428-420x257.png" style="width: 7rem;"/> &nbsp;<img src="./ts_logo.png" style="width: 9rem;"/> &nbsp;<img src="./MongoDB_logo_Mongo_DB-700x190-420x114.png" style="width: 11rem;"/>
+<img src="./React_logo_wordmark-700x235.png" style="width: 12rem;"/>&nbsp;<img src="./JavaScript_Logo-420x420.png" style="width: 5rem;"/> &nbsp;<img src="./Node_logo_NodeJS-700x428-420x257.png" style="width: 7rem;"/> &nbsp;<img src="./ts_logo.png" style="width: 9rem;"/> &nbsp;<img src="./MongoDB_logo_Mongo_DB-700x190-420x114.png" style="width: 11rem;"/>&nbsp;<img src="./webdriver-io-logo.png" style="width: 11rem;"/>
 </div>
 <!--
 **gabriel-vcs/gabriel-vcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
